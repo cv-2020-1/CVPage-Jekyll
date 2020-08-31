@@ -7,6 +7,11 @@ Este sitio es nuestro repositorio para Publicar las entregas generales del Grupo
 
 AQUI IRA UNA TABLA CON LINKS A OTRAS URLS con paginas dedicadas a las entregas
 
+Semana | Relatoria | Links
+------ | --------- | -----
+2 | Tuvimos la clase de repaso de GIT y la revisión de la pagina estatica grupal | [Pagina del Grupo](https://cv-2020-1.github.io/)
+
+
 ## Integrantes & Contacto
 
 - Duvan Alberto Andrade Cuenca : daandradec@unal.edu.co
