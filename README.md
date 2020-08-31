@@ -2,6 +2,5 @@
 
 Repositorio Github Pages para actualizar y subir todas las entregas grupales para nuestro grupo.
 
-Host: cv-2020-1.github.io
-[Link](http://cv-2020-1.github.io)
+Host: [cv-2020-1.github.io](http://cv-2020-1.github.io)
 
