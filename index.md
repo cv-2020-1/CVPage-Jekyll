@@ -40,3 +40,6 @@ _Italic_
 LINKS E IMAGENES
 [Link](url) and ![Image](src)
 ```
+
+[SITIO GUIA MARKDOWN #1](https://guides.github.com/features/mastering-markdown/)
+[SITIO GUIA MARKDOWN #2](https://github.github.com/gfm/)
