@@ -12,7 +12,7 @@ AQUI IRA UNA TABLA CON LINKS A OTRAS URLS con paginas dedicadas a las entregas
 - Duvan Alberto Andrade Cuenca : daandradec@unal.edu.co
 - Miller
 - Lizeth
-- Sebastian 
+- Juan Sebastian Paez Arroyo: jspaeza@unal.edu.co 
 - Hacke Hacker
 
 # MARKDOWN UTIL
