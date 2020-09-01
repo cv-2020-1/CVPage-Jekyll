@@ -15,7 +15,7 @@ Semana | Relatoria | Links
 - Duvan Alberto Andrade Cuenca : daandradec@unal.edu.co
 - Miller
 - Lizeth
-- Sebastian 
+- Juan Sebastian Paez Arroyo: jspaeza@unal.edu.co 
 - Hacke Hacker
 
 # MARKDOWN UTIL
