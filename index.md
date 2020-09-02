@@ -9,15 +9,6 @@ Semana | Relatoria | Links
 ------ | --------- | -----
 2 | Tuvimos la clase de repaso de GIT y la revisión de la pagina estatica grupal | [Pagina del Grupo](https://cv-2020-1.github.io/)
 
-
-## Integrantes & Contacto
-
-- Duvan Alberto Andrade Cuenca : daandradec@unal.edu.co
-- Miller Alexander Correa Gonzalez : macorreag@unal.edu.co
-- Lizeth
-- Juan Sebastian Paez Arroyo: jspaeza@unal.edu.co 
-- Hacke Hacker
-
 # MARKDOWN UTIL
 
 ```markdown
