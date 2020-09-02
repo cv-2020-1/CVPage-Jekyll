@@ -3,6 +3,8 @@
 El Curso de Computación Visual de este semestre comenzo el **Lunes 24 de Agosto del 2020** bajo la dirección del maestro Jean Pierre Charalambos Hernandez.
 Este sitio es nuestro repositorio para Publicar las entregas generales del Grupo.
 
+## [Miembros Equipo](https://cv-2020-1.github.io/staff_members)
+
 ## RELATORIA & LINKS SEMANALES
 
 Semana | Relatoria | Links
