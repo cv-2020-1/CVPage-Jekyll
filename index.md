@@ -13,7 +13,7 @@ Semana | Relatoria | Links
 ## Integrantes & Contacto
 
 - Duvan Alberto Andrade Cuenca : daandradec@unal.edu.co
-- Miller
+- Miller Alexander Correa Gonzalez : macorreag@unal.edu.co
 - Lizeth
 - Juan Sebastian Paez Arroyo: jspaeza@unal.edu.co 
 - Hacke Hacker
